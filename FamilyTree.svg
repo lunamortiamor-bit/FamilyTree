@@ -675,19 +675,19 @@
     <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1909.4,276.755 1904.4,266.755 1909.4,269.255 1914.4,266.755 "/>
   </g>
   <g>
-    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #a52a2a" points="2995.4,156 2995.4,260 3045.56,260 3045.56,449.29 "/>
-    <polygon style="fill: #a52a2a" points="3045.56,456.79 3040.56,446.79 3045.56,449.29 3050.56,446.79 "/>
-    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #a52a2a" points="3045.56,456.79 3040.56,446.79 3045.56,449.29 3050.56,446.79 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #a52a2a" points="2995.4,156 2995.4,260 3045.56,260 3045.56,450.264 "/>
+    <polygon style="fill: #a52a2a" points="3045.56,457.764 3040.56,447.764 3045.56,450.264 3050.56,447.764 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #a52a2a" points="3045.56,457.764 3040.56,447.764 3045.56,450.264 3050.56,447.764 "/>
   </g>
   <g>
-    <rect style="fill: #ffffff" x="2760" y="460" width="51.1" height="36"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="2760" y="460" width="51.1" height="36"/>
-    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="2785.55" y="482">Mai</text>
+    <rect style="fill: #ffffff" x="3020" y="460" width="51.1" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="3020" y="460" width="51.1" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="3045.55" y="482">Mai</text>
   </g>
   <g>
-    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="2976.35,416 2976.35,437.495 3045.56,437.495 3045.56,449.254 "/>
-    <polygon style="fill: #000000" points="3045.56,456.754 3040.56,446.754 3045.56,449.254 3050.56,446.754 "/>
-    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="3045.56,456.754 3040.56,446.754 3045.56,449.254 3050.56,446.754 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="2976.35,416 2976.35,438 3045.55,438 3045.55,450.264 "/>
+    <polygon style="fill: #000000" points="3045.55,457.764 3040.55,447.764 3045.55,450.264 3050.55,447.764 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="3045.55,457.764 3040.55,447.764 3045.55,450.264 3050.55,447.764 "/>
   </g>
   <g>
     <rect style="fill: #ffffff" x="1180" y="280" width="151.2" height="36"/>
